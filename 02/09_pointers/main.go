@@ -16,3 +16,5 @@ func changeUsingPointer(s *string) { // To reference a pointer you use *name
 	newValue := "Red"
 	*s = newValue
 }
+
+// https://golangdocs.com/pointers-in-golang
