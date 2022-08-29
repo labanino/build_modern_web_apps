@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/labanino/myniceprogram/helpers"
 	"log"
+
+	"github.com/labanino/myniceprogram/helpers"
 )
 
 const numPool = 1000
@@ -21,3 +22,5 @@ func main() {
 	num := <-intChan
 	log.Println(num)
 }
+
+// https://golangdocs.com/channels-in-golang

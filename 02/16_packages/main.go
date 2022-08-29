@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/tsawler/myniceprogram/helpers"
 	"log"
+
+	"github.com/tsawler/myniceprogram/helpers"
 )
 
 func main() {
@@ -11,3 +12,5 @@ func main() {
 
 	log.Println(myVar.TypeName)
 }
+
+// https://golangdocs.com/packages-in-golang

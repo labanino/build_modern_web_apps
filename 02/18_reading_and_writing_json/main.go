@@ -65,3 +65,7 @@ func main() {
 
 	fmt.Println(string(newJson))
 }
+
+// https://golangdocs.com/json-with-golang
+// https://golangdocs.com/json-with-golang
+// https://golangdocs.com/golang-read-json-file
