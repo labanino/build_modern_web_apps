@@ -1,3 +1,3 @@
-module github.com/tsawler/myniceprogram
+module 	github.com/labanino/myniceprogram/
 
 go 1.15

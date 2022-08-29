@@ -12,7 +12,6 @@ func calculateValue(intChan chan int) {
 	intChan <- randomNumber
 }
 
-
 func main() {
 	intChan := make(chan int)
 	defer close(intChan)
