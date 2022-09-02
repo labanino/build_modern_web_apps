@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"net/http"
 	"github.com/labanino/build_modern_web_apps/pkg/handlers"
+	"net/http"
 )
 
 const portNumber = ":8080"
